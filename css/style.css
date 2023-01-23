@@ -1,0 +1,72 @@
+/* style.css */
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+main {
+    display: flex;
+    width: 100vw;
+    justify-content: center;
+}
+main > div.mainContent {
+    width: 80vw;
+}
+img#censusLogo {
+    float: right;
+}
+/* section#homeText {
+    float: left;
+} */
+
+#left{
+    padding: 10px;
+}
+#middle{
+    padding: 10px;
+}
+#right{
+    padding: 10px;
+} 
+section {
+display: -webkit-flex;
+display: flex;
+}
+.courses{
+    float: inline-end;
+}
+
+
+    /* body {
+      margin: 20px;
+      text-align: center;
+    }
+  
+    h1 {
+      color: green;
+    }
+  
+    img {
+      float: left;
+      margin: 5px;
+    }
+  
+    p {
+      text-align: justify;
+      font-size: 25px;
+    }
+  </style>
+</head>
+<body>
+  <h1>GeeksforGeeks</h1>
+  <b>
+    A Computer Science
+    Portal for Geeks
+  </b>
+  <div class="square">
+    <div>
+      <img src=
+"https://media.geeksforgeeks.org/wp-content/uploads/20190808143838/logsm.png"
+        alt="Longtail boat in Thailand">
+    </div> */
